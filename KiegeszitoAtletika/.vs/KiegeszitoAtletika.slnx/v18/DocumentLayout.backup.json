@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|c:\\users\\acer\\source\\repos\\kiegeszitoatletika\\kiegeszitoatletika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|solutionrelative:kiegeszitoatletika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|c:\\users\\acer\\source\\repos\\kiegeszitoatletika\\kiegeszitoatletika\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|solutionrelative:kiegeszitoatletika\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|c:\\users\\acer\\source\\repos\\kiegeszitoatletika\\kiegeszitoatletika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3BB2561F-F7CF-4986-97B1-C90DB14209FE}|KiegeszitoAtletika\\KiegeszitoAtletika.csproj|solutionrelative:kiegeszitoatletika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "KiegeszitoAtletika\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\Versenyzo.cs",
+              "RelativeToolTip": "KiegeszitoAtletika\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:39:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KiegeszitoAtletika\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\MainWindow.xaml",
+              "RelativeToolTip": "KiegeszitoAtletika\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T11:37:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KiegeszitoAtletika\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\KiegeszitoAtletika\\KiegeszitoAtletika\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KiegeszitoAtletika\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:37:14.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
